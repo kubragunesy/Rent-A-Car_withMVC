@@ -1,0 +1,13 @@
+﻿Entity Layer katmanı, veritabanındaki tablolarımızın class halini içerir.
+DataAccess katmanı, oluşturulan bu classların crud (create-read-update-delete) işlemleri için kullanıldığı yerdir.
+Business katmanı, 
+
+SOLID prensiplerindeki S(single responsibilty prensibine) uygun olarak her bir katmana bir görev veriyoruz.
+
+Abstract klasörüne- Interface veya abstract classları atıyoruz.
+Concrete klasörüne de diğer classları atıyoruz.
+
+Katmanlar arası bağı belirtmek için reference yapılır.
+
+
+/// en son migration ile veritabanını oluşturduk.
