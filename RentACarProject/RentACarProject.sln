@@ -3,14 +3,16 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32526.322
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityLayer", "EntityLayer\EntityLayer.csproj", "{B96E0C96-3B37-4BB1-909B-799F04737F78}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EntityLayer", "EntityLayer\EntityLayer.csproj", "{B96E0C96-3B37-4BB1-909B-799F04737F78}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer.csproj", "{5AC6FC1B-DDE5-4DA1-BCF8-7F129493F5F8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer.csproj", "{5AC6FC1B-DDE5-4DA1-BCF8-7F129493F5F8}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NOTLAR", "NOTLAR", "{2C7FDB86-328D-4AEC-AB99-6933E3D4F091}"
 	ProjectSection(SolutionItems) = preProject
 		TextFile1.txt = TextFile1.txt
 	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLayer", "BusinessLayer\BusinessLayer.csproj", "{962994D5-B276-4C60-8378-C540B832F92D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -26,6 +28,10 @@ Global
 		{5AC6FC1B-DDE5-4DA1-BCF8-7F129493F5F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5AC6FC1B-DDE5-4DA1-BCF8-7F129493F5F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5AC6FC1B-DDE5-4DA1-BCF8-7F129493F5F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{962994D5-B276-4C60-8378-C540B832F92D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{962994D5-B276-4C60-8378-C540B832F92D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{962994D5-B276-4C60-8378-C540B832F92D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{962994D5-B276-4C60-8378-C540B832F92D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

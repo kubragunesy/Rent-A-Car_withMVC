@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\GUNES\\Documents\\GitHub\\Rent-A-Car_withMVC\\RentACarProject\\EntityLayer\\EntityLayer.csproj": {}
+    "C:\\Users\\GUNES\\Documents\\GitHub\\Rent-A-Car_withMVC\\RentACarProject\\BusinessLayer\\BusinessLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\GUNES\\Documents\\GitHub\\Rent-A-Car_withMVC\\RentACarProject\\EntityLayer\\EntityLayer.csproj": {
+    "C:\\Users\\GUNES\\Documents\\GitHub\\Rent-A-Car_withMVC\\RentACarProject\\BusinessLayer\\BusinessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\GUNES\\Documents\\GitHub\\Rent-A-Car_withMVC\\RentACarProject\\EntityLayer\\EntityLayer.csproj",
-        "projectName": "EntityLayer",
-        "projectPath": "C:\\Users\\GUNES\\Documents\\GitHub\\Rent-A-Car_withMVC\\RentACarProject\\EntityLayer\\EntityLayer.csproj",
+        "projectUniqueName": "C:\\Users\\GUNES\\Documents\\GitHub\\Rent-A-Car_withMVC\\RentACarProject\\BusinessLayer\\BusinessLayer.csproj",
+        "projectName": "BusinessLayer",
+        "projectPath": "C:\\Users\\GUNES\\Documents\\GitHub\\Rent-A-Car_withMVC\\RentACarProject\\BusinessLayer\\BusinessLayer.csproj",
         "packagesPath": "C:\\Users\\GUNES\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\GUNES\\Documents\\GitHub\\Rent-A-Car_withMVC\\RentACarProject\\EntityLayer\\obj\\",
+        "outputPath": "C:\\Users\\GUNES\\Documents\\GitHub\\Rent-A-Car_withMVC\\RentACarProject\\BusinessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -43,14 +43,6 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "dependencies": {
-            "Microsoft.EntityFrameworkCore.Design": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[6.0.7, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",

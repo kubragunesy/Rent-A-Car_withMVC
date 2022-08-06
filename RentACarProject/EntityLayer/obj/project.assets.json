@@ -648,11 +648,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\GUNES\\Documents\\Kübra-C#\\RentACarProject\\EntityLayer\\EntityLayer.csproj",
+      "projectUniqueName": "C:\\Users\\GUNES\\Documents\\GitHub\\Rent-A-Car_withMVC\\RentACarProject\\EntityLayer\\EntityLayer.csproj",
       "projectName": "EntityLayer",
-      "projectPath": "C:\\Users\\GUNES\\Documents\\Kübra-C#\\RentACarProject\\EntityLayer\\EntityLayer.csproj",
+      "projectPath": "C:\\Users\\GUNES\\Documents\\GitHub\\Rent-A-Car_withMVC\\RentACarProject\\EntityLayer\\EntityLayer.csproj",
       "packagesPath": "C:\\Users\\GUNES\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\GUNES\\Documents\\Kübra-C#\\RentACarProject\\EntityLayer\\obj\\",
+      "outputPath": "C:\\Users\\GUNES\\Documents\\GitHub\\Rent-A-Car_withMVC\\RentACarProject\\EntityLayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
